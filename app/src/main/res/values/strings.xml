@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Dialog</string>
+    <string name="show_dialog">Show Default Dailog</string>
+    <string name="show_custom_dialog">Show Custom Dailog</string>
+    <string name="ok">OK</string>
+    <string name="greetings_sent_successfully">Greetings sent successfully</string>
+</resources>
